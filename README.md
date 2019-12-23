@@ -1,2 +1,2 @@
 # data-science
-it consist basic etl in data science 
+new in data science field but i enjoy learning it! 
